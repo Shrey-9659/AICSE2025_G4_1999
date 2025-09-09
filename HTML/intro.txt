@@ -1,0 +1,18 @@
+<tagName> -- opening tag
+</tagName> -- closing tag
+
+
+tags : 
+Heading Tags : h1, h2, h3, h4, h5, h6
+
+Para tag : p
+
+Break Tag : br (has no closing tag)
+
+Horizontal Ruler : hr (has no closing tag)
+
+Center tag : center
+
+Image Tag : img (has no closing tag)
+takes 2 attributes : src for source of the Image and alt for alternate text.
+We can also use height and width attributes to adjust the measurements accordingly.
