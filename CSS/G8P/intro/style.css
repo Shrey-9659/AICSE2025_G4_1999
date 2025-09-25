@@ -1,0 +1,31 @@
+/* selector{
+    property : value;
+} */
+
+/* Boiler Plate */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+/* Universal Selector */
+*{
+    background-color: gray;
+}
+/* Element Selector */
+h1{
+    background-color: green;
+}
+/* Id Selector */
+#unique{
+    background-color: purple;
+}
+/* Class Selector */
+.common{
+    background-color: peru;
+}
+

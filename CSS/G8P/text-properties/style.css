@@ -1,0 +1,23 @@
+h1{
+    background-color: gray;
+    color: white;
+}
+
+#textAlign{
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: center; */
+    /* text-align: start; */
+    /* text-align: end; */
+}
+
+#textDeco{
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    /* text-decoration: none; */
+}
+a{
+    /* text-decoration: none;
+    color: black; */
+}
