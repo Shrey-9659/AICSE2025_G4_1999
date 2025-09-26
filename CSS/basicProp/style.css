@@ -1,0 +1,57 @@
+*{
+      font-family: "Montserrat", sans-serif;
+}
+
+#bgcolor{
+    background-color: gray;
+    color: yellow;
+
+    /* text align */
+
+    /* text-align: left; */
+    text-align: center;
+    /* text-align: right; */
+    /* text-align: start; */
+    /* text-align: end; */
+
+    /* text decoration */
+
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+
+    /* text transform */
+
+    /* text-transform: capitalize; */
+    text-transform: uppercase;
+    /* text-transform: lowercase; */
+}
+a{
+    text-decoration: none;
+}
+
+#one{
+    font-weight: 100;
+    font-size: 10px;
+}
+#two{
+    font-weight: 300;
+    font-size: 16px;
+}
+#three{
+    font-weight: 600;
+    font-size: 20px;
+}
+#four{
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
