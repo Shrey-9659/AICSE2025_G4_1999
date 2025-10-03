@@ -1,0 +1,21 @@
+.parent{
+    height: 600px;
+    width: 900px;
+    background-color: gray;
+    padding: 10px;
+}
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    border: 1px solid black;
+    margin: 10px;
+    font-size: 25px;
+    /* display: inline; */
+    display: inline-block;
+}
+
+#box3{
+    /* display: none; */
+    visibility: hidden;
+}
